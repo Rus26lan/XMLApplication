@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+    <Questions>
+        <Question number="1" text="К небесным телам относятся...">
+            <Answer number="1" text="Звезда" right="true"/>
+            <Answer number="2" text="Комета" right="true" /> 
+			<Answer number="3" text="Ракета" right="false" />
+			<Answer number="4" text="Самолет" right="false" />
+        </Question> 
+        <Question number="2" text="К звездам относятся...">
+            <Answer number="1" text="Солнце" right="true"/>
+			<Answer number="2" text="Марс" right="false" />
+			<Answer number="3" text="Кассиопея" right="true" />
+			<Answer number="4" text="Земля" right="false" />
+            <Answer number="5" text="Сириус" right="true" /> 
+        </Question> 
+		<Question number="3" text="К планетам относятся...">
+            <Answer number="1" text="Альдебаран" right="false"/>
+			<Answer number="2" text="Уран" right="true" />
+			<Answer number="3" text="Титан" right="false" />
+			<Answer number="4" text="Земля" right="true" />
+            <Answer number="5" text="Сириус" right="false" /> 
+        </Question> 
+		<Question number="4" text="К спутникам относятся...">
+            <Answer number="1" text="Плутон" right="false"/>
+			<Answer number="2" text="Луна" right="true" />
+			<Answer number="3" text="Цербер" right="true" />
+			<Answer number="4" text="Юпитер" right="false" />
+            <Answer number="5" text="Фобос" right="true" /> 
+        </Question> 
+    </Questions> 
+    
+

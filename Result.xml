@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Questions>
+  <Question number="1" text="К небесным телам относятся..." success="false">
+    <Answer number="1" text="Звезда"></Answer>
+    <Answer number="2" text="Комета"></Answer>
+    <Answer number="4" text="Самолет"></Answer>
+  </Question>
+  <Question number="2" text="К звездам относятся..." success="false">
+    <Answer number="5" text="Сириус"></Answer>
+  </Question>
+  <Question number="3" text="К планетам относятся..." success="false">
+    <Answer number="3" text="Титан"></Answer>
+    <Answer number="3" text="Титан"></Answer>
+  </Question>
+  <Question number="4" text="К спутникам относятся..." success="false">
+    <Answer number="2" text="Луна"></Answer>
+    <Answer number="3" text="Цербер"></Answer>
+  </Question>
+</Questions>
